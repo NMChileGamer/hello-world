@@ -1,2 +1,2 @@
 # hello-world
-Just learning how this whole hting works
+Just learning how this whole thing works
